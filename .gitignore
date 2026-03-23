@@ -1,0 +1,8 @@
+# Binaries
+Sys
+A
+B
+
+# Library (optional: usually better to submodule or link, but keep it out of your src commits)
+cppzmq-master/
+.vscode/
